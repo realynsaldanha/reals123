@@ -1,0 +1,73 @@
+.myDiv {
+    border: 5px outset white;
+    text-align: center;
+    height: 1000px;
+    width: 300px;
+    font-family: cursive;
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal;
+}
+.Div2{
+    background-color: khaki;
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    right: 10px;
+    top: 110px;
+    font-family: cursive;
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal;
+    
+}
+.Div3{
+    background-color: navajowhite;
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    position:absolute;
+    right: 550px;
+    top: 110px;
+    font-family: cursive;
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal;
+
+}
+
+.Div4{
+    background-color: palegoldenrod;
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    right: 550px;
+    top: 650px;
+    font-family: cursive;
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal;
+}
+
+.Div5{
+    background-color: lavenderblush;
+    text-align: center;
+    height:500px;
+    width:500px;
+    position: absolute;
+    right: 10px;
+    top:650px;
+    font-family: cursive;
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal;
+
+}
+
+.Title{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'SignPainter', sans-serif;
+}
